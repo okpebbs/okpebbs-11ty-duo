@@ -1,8 +1,8 @@
 ---
 title: About Aidan Charles Powell
 layout: about.njk
-name: Aidan Charles Powell
+name: Ass eater
 image: '/images/me.jpeg'
 ---
 
-Test
+wtf
