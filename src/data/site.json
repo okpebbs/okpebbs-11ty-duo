@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
+  "name": "okpebbs blog",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
     "name": "okpebbs",
     "email": "hello@okpebbs.com",
-    "twitterHandle": "author_handle"
+    "twitterHandle": "okpebbs"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -44,5 +44,5 @@
       "external": true
     }
   ],
-  "showFooterAttribution": true
+  "showFooterAttribution": falsew
 }
